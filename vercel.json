@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://blog.2xgh.qzz.io/$1"
+      "dest": "https://blogs.2xgh.qzz.io/$1"
     }
   ]
 }
